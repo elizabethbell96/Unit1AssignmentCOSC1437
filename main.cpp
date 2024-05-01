@@ -1,4 +1,11 @@
-
+/*  LIZ BELL
+    March 27, 2024
+    Dr. McMillan, Tarrant County College
+    COSC 1437-58000, Programming Fundamentals II
+    The purpose of this program is to provide the user with a menu of different     physics calculations to choose from. Then the user will be prompted to enter the values needed for the calculation. The program will then output the result of the calculation.
+    Since this was my first Object Oriented Programming assignment I learned the basics of Object Oriented Programming. I also learned how to use the getline function to read in a string from the user.
+    
+*/
 #include "functions.h" //reference the header file 
 
 int main() 
